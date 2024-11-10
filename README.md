@@ -1,2 +1,2 @@
-# Revering
-## A collection of diverse crackmes
+# Reversing
+## A collection of crackmes
